@@ -118,6 +118,17 @@ C --> D[CatBoost Model]
 D --> E[Single Prediction]
 B --> F[Batch CSV Processor]
 F --> G[Bulk Predictions]
+D --> H[Explainability Engine SHAP]
+```
+
+```mermaid
+graph TD
+A[User Input] --> B[Feature Engineering]
+B --> C[Preprocessing Pipeline]
+C --> D[CatBoost Model]
+D --> E[Single Prediction]
+B --> F[Batch CSV Processor]
+F --> G[Bulk Predictions]
 D --> H[Explainability Engine (SHAP)]
 ```
 
