@@ -1,7 +1,7 @@
 # 📌 **Project Title: PUBG Win Prediction Using Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![[Streamlit](https://img.shields.io/badge/Live%20App-Open-success?logo=streamlit)](https://pubg-game-win-prediction-app.streamlit.app/)
+[![Streamlit](https://img.shields.io/badge/Live%20App-Open-success?logo=streamlit)](https://pubg-game-win-prediction-app.streamlit.app/)
 ![CatBoost](https://img.shields.io/badge/ML-CatBoost-orange.svg)
 ![Scikit‑Learn](https://img.shields.io/badge/ML-ScikitLearn-green.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
