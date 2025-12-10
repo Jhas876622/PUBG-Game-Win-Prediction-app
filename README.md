@@ -15,7 +15,7 @@
 
 ### 🔗 **Live Demo:** [https://pubg-game-win-prediction-app.streamlit.app/](https://pubg-game-win-prediction-app.streamlit.app/)
 
-### 🔧 Technology Stack Logos
+### 🔧 Technology Stack
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55" />
